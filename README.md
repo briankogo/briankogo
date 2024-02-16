@@ -30,7 +30,7 @@ Excited about the endless possibilities in the world of data! Let's connect and 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="RStudio" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/931/328/png-transparent-rstudio-data-analysis-data-science-computer-software-others-blue-text-trademark-thumbnail.png" alt="RStudio" width="40" height="40"/> 
     <img src="https://avatars.githubusercontent.com/u/4490278?s=280&v=4" alt="RapidMiner" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/> 
