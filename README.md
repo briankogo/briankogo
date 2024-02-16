@@ -9,19 +9,24 @@ briankogo/briankogo is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center"> Hello Folks 👋</h1>
-<h3 align="center">I am a Software Engineer and Data Science Enthusiast.</h3>
+<h1 align="center">👋 Hello Folks, I'm Brian Kiptoo Kogo!</h1>
+<h3 align="center">Passionate about Data Science and making the field more interesting 🚀</h3>
 
-**briankogo/briankogo** ✨ _Quick Details_ ✨ 
+**briankogo/briankogo** ✨ _Quick Overview_ ✨ 
 
-- 🔭 I’m currently working on Django Python & Go Fiber
-- 🌱 I’m currently learning Data Science and Machine Learning
-- 👯 I’m looking to collaborate on NodeJS
-- 🤔 I’m looking for help with React JS
-- 💬 Ask me about Data cleaning, Exploration and Visualization.
-- 📫 How to reach me: nelsonmokoro37@gmail.com
-- 😄 Pronouns: Mr Nelson Mokoro
-- ⚡ Fun fact: Football and Music
+- 👋 Hi, I’m [@briankogo](https://github.com/briankogo)
+- 🔭 I’m exploring the world of Data Science using the power of R programming.
+- 🌱 Currently honing my R programming skills with the help of RStudio.
+- 👯 I’m open to collaboration to make Data Science an even more captivating field.
+- 🤔 I’m looking for insights and assistance in [specific area].
+- 💬 Ask me anything about Data cleaning, Exploration, and Visualization.
+- 📫 Reach out to me through [briankogo07@gmail.com](mailto:briankogo07@gmail.com)
+- 😄 Pronouns: Mr. Brian Kiptoo Kogo
+- ⚡ Fun fact: I find joy in both Football and Music.
+
+Excited about the endless possibilities in the world of data! Let's connect and explore together. 🌐✨
+
+
 <hr>
 <hr>
 
