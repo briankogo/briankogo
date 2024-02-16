@@ -31,14 +31,14 @@ Excited about the endless possibilities in the world of data! Let's connect and 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="RStudio" width="40" height="40"/> 
-    <img src="https://avatars.githubusercontent.com/u/4490278?s=280&v=4" alt="RapidMiner" width="40" height="40"/> 
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frapidminer%2F&psig=AOvVaw0HmzwCygla3ycCNycnWQCW&ust=1708177057791000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDJ87r9r4QDFQAAAAAdAAAAABAE" alt="RapidMiner" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Microsoft_Excel_2013-2019_logo.svg/2170px-Microsoft_Excel_2013-2019_logo.svg.png" alt="Excel" width="40" height="40"/> 
+    <img src="https://w7.pngwing.com/pngs/138/659/png-transparent-tableau-software-hd-logo.png" alt="Tableau" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/knime/knime-icon.svg" alt="KNIME" width="40" height="40"/> 
+    <img src="https://hub.knime.com/og-image-256.png" alt="KNIME" width="40" height="40"/> 
 </p>
 
 
