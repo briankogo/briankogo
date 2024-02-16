@@ -19,7 +19,7 @@ Excited about the endless possibilities in the world of data! Let's connect and 
 <hr>
 <hr>
 
-### Languages and Framework
+### Languages and Frameworks 🚀📊
 
 <p align="left"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> 
@@ -34,8 +34,13 @@ Excited about the endless possibilities in the world of data! Let's connect and 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/RapidMiner_icon_2019.svg" alt="RapidMiner" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/> 
-    <!-- Add 5 more tools here -->
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" alt="Plotly" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Apache Spark" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/knime/knime-icon.svg" alt="KNIME" width="40" height="40"/> 
 </p>
+
 
 
 
