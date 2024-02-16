@@ -19,32 +19,37 @@ Excited about the endless possibilities in the world of data! Let's connect and 
 <hr>
 <hr>
 
-### Languages and Framework
+Languages and Frameworks 🚀📊
 <p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a  href="https://www.jupyter.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="mysql" width="40" height="40"/></a>
-     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-      <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+    <a href="https://www.r-project.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/></a>
     <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
     </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+    <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
     </a> 
-<!--   golang    -->
-    <a href="https://go.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="golang" width="50" height="50"/>
-    </a> 
-   <a href="https://github.com/gofiber/fiber" target="_blank">
-    <img src="https://docs.gofiber.io/img/logo.svg" alt="Golang Fiber" style="background-color: white;" width="60" height="60"/>
-</a>
-
+    <a href="https://www.rstudio.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rstudio/rstudio-icon.svg" alt="RStudio" width="40" height="40"/> </a>
+    <a href="https://rapidminer.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/RapidMiner_icon_2019.svg" alt="RapidMiner" width="40" height="40"/> </a>
+    <a href="https://powerbi.microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> </a>
+    <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/> </a>
+    <!-- Add 5 more tools here -->
+</p>
+Data Science Tools 🛠️
+🐍 R: Harnessing the statistical power of R for data analysis and visualization.
+📊 RStudio: Creating an integrated development environment for R, making data analysis more efficient.
+🚀 RapidMiner: Empowering data scientists with an intuitive platform for data preparation, machine learning, and advanced analytics.
+📈 Power BI: Transforming data into actionable insights through interactive visualizations and business intelligence.
+📉 Excel: Leveraging the familiar spreadsheet interface for data analysis and reporting.
+Additional Tools for Data Science and Analysis 🔧
+📚 Tableau: Turning complex data into interactive and shareable visualizations.
+📌 Plotly: Building interactive and publication-quality graphs in Python.
+📡 TensorFlow: Implementing machine learning models for deep learning applications.
+📝 Apache Spark: Handling large-scale data processing and analytics.
+📜 KNIME: Designing data workflows and analytics across a visual interface.
+Dive into the world of data with these powerful tools, enabling comprehensive analysis, visualization, and decision-making! 🌐💡
  </p>
 
 
